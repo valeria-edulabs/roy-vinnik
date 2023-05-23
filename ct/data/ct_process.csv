@@ -1,0 +1,15 @@
+xpath,action,content_field,comment
+"//*[@id=""Dd-5""]",send_keys,username,Insert username
+"//*[@id=""Dd-6""]",send_keys,password,Insert password
+"//*[@id=""Dd-7""]",click,,Click Login
+"//*[@id=""caption2_Dl-h1-5""]/span[2]",click,,Click File Now
+"//*[@id=""Dm-n""]",click,,"Check ""General Sales - 6.35% Tax Rate"""
+"//*[@id=""action_3""]/span/span",click,,Click Next
+"//*[@id=""Dm-z""]",send_keys,Gross receipts from sales of goods,Insert Gross receipts from sales of goods
+"//*[@id=""Dm-31""]",send_keys,Gross receipts from leases and rental,Insert Gross receipts from leases and rental
+"//*[@id=""Dm-51""]",send_keys,Gross receipts from labor and services,Insert Gross receipts from labor and services
+"//*[@id=""Dm-71""]",send_keys,Goods purchased by your business subject to use tax,Insert Goods purchased by your business subject to use tax
+"//*[@id=""Dm-81""]",send_keys,Leases and rentals by your business subject to use tax,Insert Leases and rentals by your business subject to use tax
+"//*[@id=""Dm-91""]",send_keys,Services purchased by your business subject to use tax,Insert Services purchased by your business subject to use tax
+"//*[@id=""Dm-b1""]/div/label[1]/span",click,,Click NO deductions
+"//*[@id=""action_3""]/span/span",click,,Click Next
